@@ -5,4 +5,6 @@ Runs some sorting algorithms with various list inputs incrementing in size, and 
 
 Changing the hard-coded arguments to the TestComplexity object initialization let you change the max list size, list size increment, the sorting functions to test for, and their names (I did not know of the existence of .\_\_name__ back when I wrote this).
 
+Includes some example outputs, found under the directories whose names follow the pattern "Results - Max %d+ - Inc %d+".
+
 NOTE: I did not write the sorting algorithms. That was given to us by the professor.
